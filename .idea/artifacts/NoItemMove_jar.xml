@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoItemMove:jar">
+    <output-path>$PROJECT_DIR$/../../../../../../TestingServer1.16.4/plugins</output-path>
+    <root id="archive" name="NoItemMove.jar">
+      <element id="module-output" name="NoItemMove" />
+    </root>
+  </artifact>
+</component>

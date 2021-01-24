@@ -1,0 +1,6 @@
+name: NoItemMove
+main: io.github.tacticalaxis.noitemmove.NoItemMove
+version: 1.0
+author: NathanD256
+prefix: NIM
+api-version: 1.16
